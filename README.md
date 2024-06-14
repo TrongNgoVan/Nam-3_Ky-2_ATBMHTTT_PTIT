@@ -1,5 +1,4 @@
-# An Toàn Bảo Mật Hệ Thống Thông Tin - PTIT - GVHD : Nguyễn Hoa Cương
-10 10 20 60 
+
 # Trắc Nghiệm cuối kỳ 
 - Đã có ở Folder Trắc nghiệm github, tuy nhiên các bạn có thể luyện ở quizz dưới đây
 - Chương 1 & 2 : https://quizizz.com/admin/quiz/666b7273fcffe13a6b0cc176?source=quiz_share
