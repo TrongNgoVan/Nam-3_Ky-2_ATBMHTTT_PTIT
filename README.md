@@ -1,5 +1,5 @@
-
-# Trắc Nghiệm cuối kỳ 
+## An toàn bảo mật HTTT - PTIT - GVHD : Nguyễn Hoa Cương
+## Trắc Nghiệm cuối kỳ 
 - Đã có ở Folder Trắc nghiệm github, tuy nhiên các bạn có thể luyện ở quizz dưới đây
 - Chương 1 & 2 : https://quizizz.com/admin/quiz/666b7273fcffe13a6b0cc176?source=quiz_share
 - Chương 2 ( Tiếp ) : https://quizizz.com/admin/quiz/666b74932f541b6b1745de50?source=quiz_share
